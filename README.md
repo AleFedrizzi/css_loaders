@@ -1,2 +1,4 @@
-# css_loaders
-Loaders em css
+# Loaders em css
+
+Estudo CSS
+https://alefedrizzi.github.io/css_loaders/
